@@ -1,1 +1,2 @@
 # scm.practice
+hello everyone
